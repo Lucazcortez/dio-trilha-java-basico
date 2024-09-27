@@ -9,16 +9,16 @@ public  class Main {
         do {
             System.out.printf("%s", """
                                         
-                    ---------------------------
+                    ===========================
                        Seja Bem vindo
-                    ---------------------------
+                    ===========================
                     1- Reprodutor Musical
                     2- Navegador Internet
                     3- Ligar
                     4- Atender
                     5- Iniciar Correio de Voz
                     6- Sair
-                    ---------------------------
+                    =============================
                     """);
 
             System.out.print("Escolha: ");
