@@ -10,15 +10,15 @@ public  class Main {
             System.out.printf("%s", """
                                         
                     ---------------------------
-                        BEM VINDO 
-                    --------------------------
+                        BEM VINDO
+                    ---------------------------
                     1- Reprodutor Musical
                     2- Navegador Internet
                     3- Ligar
                     4- Atender
                     5- Iniciar Correio de Voz
                     6- Sair
-                    ============================
+                    ---------------------------
                     """);
 
             System.out.print("Escolha: ");
