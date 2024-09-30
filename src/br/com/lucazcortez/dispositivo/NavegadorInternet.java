@@ -1,6 +1,5 @@
 package br.com.lucazcortez.dispositivo;
 
-import java.util.Scanner;
 public interface NavegadorInternet {
 
     void exibirPagina (String url);
