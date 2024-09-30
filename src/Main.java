@@ -10,7 +10,7 @@ public  class Main {
             System.out.printf("%s", """
                                         
                     ===========================
-                       Seja Bem vindo
+                       Seja Bem vindo(A) 
                     ===========================
                     1- Reprodutor Musical
                     2- Navegador Internet
