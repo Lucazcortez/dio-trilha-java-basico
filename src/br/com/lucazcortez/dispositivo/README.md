@@ -53,4 +53,4 @@ Com base no vídeo de lançamento do iPhone de 2007 (link abaixo), você deve el
 4. Submeta seu repositório GitHub conforme as orientações da plataforma DIO. Por exemplo:
 
 ### UML
-! [ Imagem do Iphone ] (https://github.com/Lucazcortez/dio-trilha-java-basico/blob/dispositivo/src/br/com/lucazcortez/dispositivo/assets/iphoneUML.png)
+![ Imagem do Iphone ] (https://github.com/Lucazcortez/dio-trilha-java-basico/blob/dispositivo/src/br/com/lucazcortez/dispositivo/assets/iphoneUML.png)
